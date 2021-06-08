@@ -2,10 +2,10 @@
 
 1.	What is the conversion rate for an individual flight search result? For definition, an ‘individual flight search result’ is the following:
  
-- Develop a Dataset based on flight search portal at alaskaair.com. Different attributes can be deducted. The attributes can be Search index, from location, To location, Departure date, Return date, Number of adults, number of children, One way (yes/no), cost in miles(yes/no), Flight available(yes/no), Flight number, Payment done(yes/no), Flight Fare.
-- Each time the individual searches for a flight, the values are recorded in the database. Only after the payment is done, the payment done column will update as ‘Yes’ otherwise ‘No’.  
--The individual flight search result can be identified using the percentage difference of the total payment done (yes) count to the total number of search index. 
--This index can be shown using data visualization techniques likes chart or a graph or in percentage value. 
+--> Develop a Dataset based on flight search portal at alaskaair.com. Different attributes can be deducted. The attributes can be Search index, from location, To location, Departure date, Return date, Number of adults, number of children, One way (yes/no), cost in miles(yes/no), Flight available(yes/no), Flight number, Payment done(yes/no), Flight Fare.
+--> Each time the individual searches for a flight, the values are recorded in the database. Only after the payment is done, the payment done column will update as ‘Yes’ otherwise ‘No’.  
+--> The individual flight search result can be identified using the percentage difference of the total payment done (yes) count to the total number of search index. 
+--> This index can be shown using data visualization techniques likes chart or a graph or in percentage value. 
 
 
 2.	How does the cost in miles affect the guests’ willingness to purchase? For this question, assume that the conversion space is already tagged successfully, and this data is already accessible.
